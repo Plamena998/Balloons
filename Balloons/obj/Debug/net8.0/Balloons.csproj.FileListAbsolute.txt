@@ -1,0 +1,14 @@
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.AssemblyInfoInputs.cache
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.AssemblyInfo.cs
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.csproj.CoreCompileInputs.cache
+C:\Users\plami\source\repos\Balloons\Balloons\bin\Debug\net8.0\Balloons.exe
+C:\Users\plami\source\repos\Balloons\Balloons\bin\Debug\net8.0\Balloons.deps.json
+C:\Users\plami\source\repos\Balloons\Balloons\bin\Debug\net8.0\Balloons.runtimeconfig.json
+C:\Users\plami\source\repos\Balloons\Balloons\bin\Debug\net8.0\Balloons.dll
+C:\Users\plami\source\repos\Balloons\Balloons\bin\Debug\net8.0\Balloons.pdb
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.dll
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\refint\Balloons.dll
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.pdb
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\Balloons.genruntimeconfig.cache
+C:\Users\plami\source\repos\Balloons\Balloons\obj\Debug\net8.0\ref\Balloons.dll
