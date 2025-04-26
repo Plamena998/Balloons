@@ -10,11 +10,8 @@ namespace Balloons
     {
         static void Main(string[] args)
         {
-            Play play = new Play();
-            play.PlayRotaion();
-            play.Game();
-            Console.WriteLine(play);
-
+            Game game = new Game();
+            game.GameStart();
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\plami\\source\\repos\\Balloons\\Balloons\\Balloons.csproj": {}
+    "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Balloons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\plami\\source\\repos\\Balloons\\Balloons\\Balloons.csproj": {
+    "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Balloons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\plami\\source\\repos\\Balloons\\Balloons\\Balloons.csproj",
+        "projectUniqueName": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Balloons.csproj",
         "projectName": "Balloons",
-        "projectPath": "C:\\Users\\plami\\source\\repos\\Balloons\\Balloons\\Balloons.csproj",
+        "projectPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Balloons.csproj",
         "packagesPath": "C:\\Users\\plami\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\plami\\source\\repos\\Balloons\\Balloons\\obj\\",
+        "outputPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\plami\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,7 +8,7 @@ namespace Balloons.Interfaces
 {
     public interface IProperty
     {
-        string Color { get; set; }
-        int Size { get; set; } 
+        string Color { get;}
+        int Size { get;} 
     }
 }
