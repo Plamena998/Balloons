@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\balloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\balloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\balloonpoppedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\balloonpoppedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\balloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|solutionrelative:balloons\\balloon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBA35E4E-C4B1-4E6B-91CA-17DAFDE537FF}|Balloons\\Balloons.csproj|c:\\users\\plami\\documents\\uni\\github\\balloons\\balloons\\interfaces\\iproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Game.cs",
               "RelativeDocumentMoniker": "Balloons\\Game.cs",
-              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Game.cs*",
-              "RelativeToolTip": "Balloons\\Game.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB0AAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Game.cs",
+              "RelativeToolTip": "Balloons\\Game.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T11:09:28.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Program.cs",
               "RelativeDocumentMoniker": "Balloons\\Program.cs",
@@ -86,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Balloon.cs",
               "DocumentMoniker": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Balloon.cs",
               "RelativeDocumentMoniker": "Balloons\\Balloon.cs",
               "ToolTip": "C:\\Users\\plami\\Documents\\uni\\GitHub\\Balloons\\Balloons\\Balloon.cs",
               "RelativeToolTip": "Balloons\\Balloon.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T11:30:39.137Z",
               "EditorCaption": ""
